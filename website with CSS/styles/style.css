@@ -1,0 +1,50 @@
+h1 {
+	color: black;
+	font-size: 50px;
+	text-align: center;
+	line-height: 1.6;
+}
+
+
+p {
+	color: blue;
+	font-size: 30px;
+	text-align: center;
+	line-height: 1.6;
+}
+
+div {
+	color: blue;
+	font-size: 20px;
+	text-align: center;
+	line-height: 2;
+}
+
+.main_text {
+	color: grey;
+	font-size: 20px;
+	text-align: center;
+	line-height: 2;
+}
+
+.main_page {
+	text-align: center; 
+}
+
+#photo_gallery_title {
+	color: blue;
+	font-size: 30px;
+	text-align: center;
+	line-height: 1.6;
+}
+
+.main_links {
+	font-size: 15px;
+	color: steelblue;
+}
+
+.main_links :hover {
+	font-size: 15px;
+	color:#3C8A67;
+}
+
